@@ -1,0 +1,8 @@
+.Ds_Store
+test-webpack
+webpack-example/dist/
+webpack-example/node_modules/
+*/node_modules/
+node/node_modules/
+safe-regex/
+.idea
